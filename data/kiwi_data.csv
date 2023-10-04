@@ -1,0 +1,51 @@
+,website,airline,departure_time,arrival_time,duration,price,number_of_stops
+0,https://www.kiwi.com/en/,Finnair,07:40,09:20,2h 40m,94 €,Direct
+1,https://www.kiwi.com/en/,airBaltic,21:20,09:10,12h 50m,76 €,1 stop
+2,https://www.kiwi.com/en/,Lufthansa,13:40,15:15,2h 35m,182 €,Direct
+3,https://www.kiwi.com/en/,airBaltic,09:00,18:30,10h 30m,132 €,1 stop
+4,https://www.kiwi.com/en/,Finnair,16:55,18:35,2h 40m,195 €,Direct
+5,https://www.kiwi.com/en/,KLM Royal Dutch Airlines,07:00,11:00,5h,194 €,1 stop
+6,https://www.kiwi.com/en/,Lufthansa,18:10,19:45,2h 35m,217 €,Direct
+7,https://www.kiwi.com/en/,airBaltic,05:25,18:30,14h 05m,132 €,1 stop
+8,https://www.kiwi.com/en/,Lufthansa,12:45,16:00,4h 15m,218 €,1 stop
+9,https://www.kiwi.com/en/,KLM Royal Dutch Airlines,07:00,13:35,7h 35m,194 €,1 stop
+10,https://www.kiwi.com/en/,Lufthansa,06:10,10:00,4h 50m,218 €,1 stop
+11,https://www.kiwi.com/en/,Lufthansa,10:55,16:00,6h 05m,209 €,2 stops
+12,https://www.kiwi.com/en/,Finnair SAS,07:25,11:15,4h 50m,224 €,1 stop
+13,https://www.kiwi.com/en/,Lufthansa,06:10,11:00,5h 50m,218 €,1 stop
+14,https://www.kiwi.com/en/,Lufthansa,12:45,18:00,6h 15m,218 €,1 stop
+15,https://www.kiwi.com/en/,Air France,06:20,11:25,6h 05m,223 €,1 stop
+16,https://www.kiwi.com/en/,KLM Royal Dutch Airlines,14:00,18:40,5h 40m,228 €,1 stop
+17,https://www.kiwi.com/en/,Lufthansa,10:55,18:00,8h 05m,209 €,2 stops
+18,https://www.kiwi.com/en/,Lufthansa,12:45,19:00,7h 15m,218 €,1 stop
+19,https://www.kiwi.com/en/,airBaltic,09:00,09:10,25h 10m,77 €,1 stop
+20,https://www.kiwi.com/en/,Lufthansa,06:10,13:00,7h 50m,218 €,1 stop
+21,https://www.kiwi.com/en/,SAS,10:55,19:45,9h 50m,214 €,2 stops
+22,https://www.kiwi.com/en/,SAS,10:55,19:45,9h 50m,214 €,2 stops
+23,https://www.kiwi.com/en/,KLM Royal Dutch Airlines,07:00,18:40,12h 40m,193 €,1 stop
+24,https://www.kiwi.com/en/,Finnair Lufthansa,08:10,12:30,5h 20m,255 €,1 stop
+25,https://www.kiwi.com/en/,KLM Royal Dutch Airlines,14:00,21:45,8h 45m,228 €,1 stop
+26,https://www.kiwi.com/en/,Austrian Airlines,10:55,21:00,11h 05m,210 €,2 stops
+27,https://www.kiwi.com/en/,Eurowings Lufthansa,21:45,07:55,11h 10m,213 €,1 stop
+28,https://www.kiwi.com/en/,Lufthansa,10:55,22:00,12h 05m,209 €,2 stops
+29,https://www.kiwi.com/en/,SAS,12:50,19:45,7h 55m,243 €,1 stop
+30,https://www.kiwi.com/en/,SAS Lufthansa,20:20,08:30,13h 10m,202 €,1 stop
+31,https://www.kiwi.com/en/,airBaltic,21:20,18:30,22h 10m,132 €,1 stop
+32,https://www.kiwi.com/en/,Finnair SAS,23:40,14:45,16h 05m,184 €,2 stops
+33,https://www.kiwi.com/en/,Norwegian International SAS,23:00,14:45,16h 45m,181 €,2 stops
+34,https://www.kiwi.com/en/,Finnair SAS,23:40,19:10,20h 30m,155 €,1 stop
+35,https://www.kiwi.com/en/,KLM Royal Dutch Airlines,07:00,21:45,15h 45m,193 €,1 stop
+36,https://www.kiwi.com/en/,SAS Lufthansa,10:55,15:35,5h 40m,274 €,1 stop
+37,https://www.kiwi.com/en/,Norwegian International SAS,23:00,19:10,21h 10m,153 €,1 stop
+38,https://www.kiwi.com/en/,KLM Royal Dutch Airlines,10:50,21:45,11h 55m,227 €,1 stop
+39,https://www.kiwi.com/en/,Lufthansa,06:10,15:00,9h 50m,249 €,1 stop
+40,https://www.kiwi.com/en/,airBaltic Lufthansa,21:20,07:35,11h 15m,239 €,1 stop
+41,https://www.kiwi.com/en/,Lufthansa,12:45,22:00,10h 15m,249 €,1 stop
+42,https://www.kiwi.com/en/,SAS Lufthansa,17:10,08:30,16h 20m,202 €,1 stop
+43,https://www.kiwi.com/en/,Air France,06:20,19:15,13h 55m,223 €,1 stop
+44,https://www.kiwi.com/en/,Lufthansa,06:10,16:00,10h 50m,249 €,1 stop
+45,https://www.kiwi.com/en/,KLM Royal Dutch Airlines,10:50,18:40,8h 50m,266 €,1 stop
+46,https://www.kiwi.com/en/,Austrian Airlines,17:10,07:30,15h 20m,215 €,2 stops
+47,https://www.kiwi.com/en/,Finnair Lufthansa,20:45,07:35,11h 50m,244 €,1 stop
+48,https://www.kiwi.com/en/,Finnair KLM Royal Dutch Airlines,08:10,13:35,6h 25m,288 €,1 stop
+49,https://www.kiwi.com/en/,Finnair LOT Polish Airlines,23:50,09:40,10h 50m,254 €,2 stops

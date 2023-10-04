@@ -1,0 +1,53 @@
+,website,airline,departure_time,arrival_time,duration,price,number_of_stops
+0,https://www.momondo.com,1. Finnair,7:40 am,9:20 am,2h 40m,$91,nonstop
+1,https://www.momondo.com,1. airBaltic,9:20 pm,"9:10 am
++1",12h 50m,$84,1 stop
+2,https://www.momondo.com,1. Lufthansa,1:40 pm,3:15 pm,2h 35m,$172,nonstop
+3,https://www.momondo.com,1. Finnair,4:55 pm,6:35 pm,2h 40m,$192,nonstop
+4,https://www.momondo.com,1. Lufthansa,6:10 pm,7:45 pm,2h 35m,$204,nonstop
+5,https://www.momondo.com,1. airBaltic,9:00 am,6:30 pm,10h 30m,$133,1 stop
+6,https://www.momondo.com,1. KLM,7:00 am,11:00 am,5h 00m,$188,1 stop
+7,https://www.momondo.com,1. Lufthansa,6:10 am,10:00 am,4h 50m,$194,1 stop
+8,https://www.momondo.com,1. Lufthansa,12:45 pm,4:00 pm,4h 15m,$219,1 stop
+9,https://www.momondo.com,1. Lufthansa,6:10 am,11:00 am,5h 50m,$194,1 stop
+10,https://www.momondo.com,1. Air France,6:20 am,11:25 am,6h 05m,$216,1 stop
+11,https://www.momondo.com,1. Finnair 2. Scandinavian Airlines,7:25 am,11:15 am,4h 50m,$236,1 stop
+12,https://www.momondo.com,1. Lufthansa,12:45 pm,6:00 pm,6h 15m,$219,1 stop
+13,https://www.momondo.com,1. KLM,2:00 pm,6:40 pm,5h 40m,$256,1 stop
+14,https://www.momondo.com,1. KLM,6:10 pm,9:45 pm,4h 35m,$346,1 stop
+15,https://www.momondo.com,1. KLM,7:00 am,1:35 pm,7h 35m,$208,1 stop
+16,https://www.momondo.com,1. Finnair 2. Lufthansa,8:10 am,12:30 pm,5h 20m,$270,1 stop
+17,https://www.momondo.com,1. Scandinavian Airlines 2. Lufthansa,10:55 am,3:35 pm,5h 40m,$325,1 stop
+18,https://www.momondo.com,1. Lufthansa,10:55 am,3:35 pm,5h 40m,$332,1 stop
+19,https://www.momondo.com,1. Lufthansa,6:10 am,1:00 pm,7h 50m,$219,1 stop
+20,https://www.momondo.com,1. Lufthansa,12:45 pm,7:00 pm,7h 15m,$263,1 stop
+21,https://www.momondo.com,1. Scandinavian Airlines,12:50 pm,7:45 pm,7h 55m,$255,1 stop
+22,https://www.momondo.com,1. KLM,2:00 pm,9:45 pm,8h 45m,$225,1 stop
+23,https://www.momondo.com,1. Finnair 2. Lufthansa,10:40 am,3:10 pm,5h 30m,$320,1 stop
+24,https://www.momondo.com,1. Finnair 2. Scandinavian Airlines,11:00 am,2:45 pm,4h 45m,$469,1 stop
+25,https://www.momondo.com,1. KLM,10:50 am,6:40 pm,8h 50m,$228,1 stop
+26,https://www.momondo.com,1. Lufthansa,6:10 am,3:00 pm,9h 50m,$233,1 stop
+27,https://www.momondo.com,1. KLM,10:50 am,5:15 pm,7h 25m,$317,1 stop
+28,https://www.momondo.com,1. British Airways,4:00 pm,10:40 pm,7h 40m,$326,1 stop
+29,https://www.momondo.com,1. Lufthansa,10:55 am,4:00 pm,6h 05m,$296,2 stops
+30,https://www.momondo.com,1. Finnair 2. KLM,8:10 am,1:35 pm,6h 25m,$306,1 stop
+31,https://www.momondo.com,1. Lufthansa,6:10 am,4:00 pm,10h 50m,$233,1 stop
+32,https://www.momondo.com,1. Finnair 2. Ryanair,4:00 pm,"12:05 am
++1",9h 05m,$230,1 stop
+33,https://www.momondo.com,1. Scandinavian Airlines,10:55 am,3:35 pm,5h 40m,$587,1 stop
+34,https://www.momondo.com,1. Finnair 2. Lufthansa,9:15 am,3:00 pm,6h 45m,$300,1 stop
+35,https://www.momondo.com,1. Finnair 2. Ryanair,11:30 am,5:20 pm,6h 50m,$298,1 stop
+36,https://www.momondo.com,1. Scandinavian Airlines,10:55 am,7:45 pm,9h 50m,$217,2 stops
+37,https://www.momondo.com,1. Lufthansa,6:10 am,12:00 pm,6h 50m,$418,1 stop
+38,https://www.momondo.com,1. Lufthansa,12:45 pm,8:00 pm,8h 15m,$307,1 stop
+39,https://www.momondo.com,1. Lufthansa,12:45 pm,10:00 pm,10h 15m,$261,1 stop
+40,https://www.momondo.com,1. Scandinavian Airlines 2. Lufthansa,10:55 am,6:55 pm,9h 00m,$325,1 stop
+41,https://www.momondo.com,1. Lufthansa,10:55 am,6:00 pm,8h 05m,$270,2 stops
+42,https://www.momondo.com,1. Norwegian 2. Ryanair,2:10 pm,9:05 pm,7h 55m,$244,2 stops
+43,https://www.momondo.com,1. Lufthansa,10:55 am,6:55 pm,9h 00m,$390,1 stop
+44,https://www.momondo.com,1. British Airways,11:25 am,6:45 pm,8h 20m,$431,1 stop
+45,https://www.momondo.com,1. Scandinavian Airlines,10:55 am,7:45 pm,9h 50m,$246,2 stops
+46,https://www.momondo.com,1. Lufthansa,10:55 am,7:00 pm,9h 05m,$303,2 stops
+47,https://www.momondo.com,1. SWISS,12:50 pm,7:05 pm,7h 15m,$378,2 stops
+48,https://www.momondo.com,1. Austrian Airlines,12:50 pm,9:50 pm,10h 00m,$305,2 stops
+49,https://www.momondo.com,1. Undisclosed Carrier,12pm-1pm,12pm,6h 55m,$493,2 stops
