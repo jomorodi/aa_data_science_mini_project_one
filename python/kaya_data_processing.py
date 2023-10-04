@@ -166,4 +166,5 @@ class Data_processing:
 test_kayak = Data_processing(csv_dict)
 test_kayak.read_csv()
 test_kayak.kayak_clean()
-# test_kayak.write_kayak_processed()    
+# test_kayak.write_kayak_processed()
+test_kayak.exploratory_data_analysis_kayak()

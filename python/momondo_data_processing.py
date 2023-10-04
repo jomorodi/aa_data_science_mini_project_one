@@ -165,4 +165,5 @@ class Data_processing:
 test_momondo = Data_processing(csv_dict)
 test_momondo.read_csv()
 test_momondo.momondo_clean()
-# test_momondo.write_momondo_processed()    
+# test_momondo.write_momondo_processed()
+test_momondo.exploratory_data_analysis_momondo()   
